@@ -25,7 +25,7 @@ I'm also working on a mobile application for healthcare professionals specializi
 
 ## 🌱 Currently learning
 
-I'm currently working on my first projects in **Python**, as well as the **cybersecurity** branch of the curriculum at 42 🔐
+I'm currently working on my first projects in **Python**, **Datascience**, as well as the **cybersecurity** branch of the curriculum at 42 🔐
 
 ## Some stats
 
