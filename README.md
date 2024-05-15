@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 # Hello !
 
-My name is Matthieu, I'm a software engineering student at 42 in Paris, and currently looking for an internship in the field of product-oriented software development. In addition to my interest in the technical aspects of development, I am very keen on identifying and understanding user needs and wish to continue learning to develop solutions that optimally meet these needs.
+My name is Matthieu, I'm a software engineering student at 42 in Paris, and currently looking for a second internship in the field of product-oriented software development. In addition to my interest in the technical aspects of development, I am very keen on identifying and understanding user needs and wish to continue learning to develop solutions that optimally meet these needs.
 
 ## 🔭 Working on
 
-I recently released a [Chrome Extension](https://chrome.google.com/webstore/detail/runway-downloader/phjakjnniknfkoaiihgabnpclaejodkp) aimed at fashion professionnals, and am actively working on adding new features.
+💼 I am finishing my current internship as Data & Web Developer at LVMH Beauty Tech, Christian Dior Parfums.  
 
-I'm also working on a mobile application for healthcare professionals specializing in cardiovascular health, which implements tools from the European Society of Cardiology to help practitioners assess the cardiovascular health of their patients.
+👨🏻‍💻 I recently released a [Chrome Extension](https://chrome.google.com/webstore/detail/runway-downloader/phjakjnniknfkoaiihgabnpclaejodkp) aimed at fashion professionnals, and am actively working on adding new features.
 
 ## 🌱 Currently learning
 
