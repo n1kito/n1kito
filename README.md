@@ -19,13 +19,13 @@ My name is Matthieu, I'm a software engineering student at 42 in Paris, and curr
 
 ## 🔭 Working on
 
-💼 I am finishing my current internship as Data & Web Developer at LVMH Beauty Tech, Christian Dior Parfums.  
+💼 I recently finished an internship as Data & Web Developer at LVMH Beauty Tech, Christian Dior Parfums.
 
 👨🏻‍💻 I recently released a [Chrome Extension](https://chrome.google.com/webstore/detail/runway-downloader/phjakjnniknfkoaiihgabnpclaejodkp) aimed at fashion professionnals, and am actively working on adding new features.
 
 ## 🌱 Currently learning
 
-I'm currently working on my first projects in **Python**, **Datascience**, as well as the **cybersecurity** branch of the curriculum at 42 🔐
+I'm currently working on my first projects in **Java**, **Python**, **Datascience**, as well as the **cybersecurity** branch of the curriculum at 42 🔐
 
 ## Some stats
 
