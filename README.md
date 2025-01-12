@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello !
 
-My name is Matthieu, I'm a software engineering student at 42 in Paris, and currently looking for a second internship in the field of product-oriented software development. In addition to my interest in the technical aspects of development, I am very keen on identifying and understanding user needs and wish to continue learning to develop solutions that optimally meet these needs.
+My name is Matthieu, I'm a software engineering student at 42 in Paris, and currently finishing my second internship in the field of product-oriented software development. In addition to my interest in the technical aspects of development, I am very keen on identifying and understanding user needs and wish to continue learning to develop solutions that optimally meet these needs.
 
 ## 🔭 Working on
 
@@ -25,7 +25,7 @@ My name is Matthieu, I'm a software engineering student at 42 in Paris, and curr
 
 ## 🌱 Currently learning
 
-I'm currently working on my first projects in **Java**, **Python**, **Datascience**, as well as the **cybersecurity** branch of the curriculum at 42 🔐
+I'm currently working on my some Data Science projects 📈.
 
 ## Some stats
 
